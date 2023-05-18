@@ -55,5 +55,5 @@
 <h2 style="color: #44AEFB">📊 Estatística </h2>
 <div class="stats" align="center">
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrambilla&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrambilla&layout=compact&langs_count=8&theme=algolia&border_radius=20)
 </div>
