@@ -18,6 +18,9 @@
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img  alt="NextJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
@@ -45,9 +48,6 @@
   <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer">
     <img  alt="Express" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img  alt="NextJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  </a>  
 </div>
 <h2 style="color: #44AEFB">📊 Estatística </h2>
 <div class="stats" align="center">
