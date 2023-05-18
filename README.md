@@ -52,7 +52,8 @@
     <img  alt="NextJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   </a>  
 </div>
-<div>
-  <h2 style="color: #44AEFB">📊 Estatística </h2>
+<h2 style="color: #44AEFB">📊 Estatística </h2>
+<div class="stats" align="center">
+  
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBrambilla&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
