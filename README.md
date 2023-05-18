@@ -2,7 +2,7 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;">Olá! Sou Leonardo VIncius, um entusiasta e apaixonado por programação. Com foco em full stack. Estou sempre em busca de desafios empolgantes e projetos inovadores para aprimorar minhas habilidades. Neste perfil, você encontrará meus projetos, contribuições e experimentos. Fique à vontade para explorar e entrar em contato comigo caso queira colaborar ou discutir ideias. Vamos construir algo incrível juntos!</p>
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ Linguagens e ferramentas</h2>
 <br> 
 
 <div align="center">
